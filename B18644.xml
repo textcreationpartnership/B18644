@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the city of London against the bill for confirming a patent for a market for live cattel in Brookfield.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18644</idno><idno type="EEBO-CITATION">99886793</idno>
+  <idno type="VID">189448</idno>
+  <idno type="EEBO-PROQUEST">2240892566</idno>
+  
+            <idno type="STC">Wing C1027C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[25]</idno>
+            <idno type="STC">ESTC R226604</idno>
+            <idno type="PROQUEST">ocm99886793</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886793e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189448)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the city of London against the bill for confirming a patent for a market for live cattel in Brookfield.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With a docket title.</note>
+                  <note>P. [1] filmed twice.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Cattle --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189448:1"/>
+            <head>THE CASE Of the City of <hi>LONDON</hi> against the Bill for Confirming a Patent for a Market for Live Cattel in <hi>BROOKFIELD.</hi>
+            </head>
+            <p>KING <hi>Edward</hi> III. <hi>primo Regni sui</hi> by Charter in Parliament granted to the City, that there should be no Market within seven Miles thereof. The Words of the Charter are—<hi>Edwardus,</hi> &amp;c. <hi>Sciatis nos,</hi> &amp;c. <hi>de assensu Prelatorum, Comituum, Baronum, ac totius Communitatis Regni nostri in instanti Parliamento nostro apud</hi> Westminster <hi>convocato existentium concessisse Civibus Civitatis</hi> London <hi>&amp; Successoribus suis imperpetuum (inter alia) Quod nullum Mercatum de caetero infra septem Leucas in circuitu Civitatis praedictae per nos vel Haeredes nostros alicui concedatur.</hi> Under-written <hi>per ipsum Regem &amp; commune Concilium Parliamenti.</hi>
+            </p>
+            <p>Which Charter was confirmed by a particular Act of Parliament <hi>septimo R.</hi> 2. and by several Charters and Acts of Parliament since.</p>
+            <p>Not any Market for Live Cattel has been set up within that Distance, nor any one attempted till 1637. But on several Hearings before the King in Council, it was adjudged inconvenient and prejudicial to the City; and there<g ref="char:EOLhyphen"/>fore a Stop was put thereunto.</p>
+            <p>
+               <hi>Anno Decimo quinto</hi> Caroli <hi>Secundi,</hi> The Earl of St. <hi>Albans</hi> obtained a Grant to <hi>John Harvey</hi> and <hi>John Coell</hi> in Trust for his Lordship, of a Market for Live Cattel, on <hi>Mondays</hi> and <hi>Wednesdays</hi> in <hi>Hay-Market-Street,</hi> but the same never took effect.</p>
+            <p>In 1683. a Grant was passing to erect a Market for Live Cattel at <hi>Conduit-Mead,</hi> but upon hearing the City in Council, a Stop was put thereunto.</p>
+            <p>After Judgment was given against the City in the late <hi>Quo Warranto,</hi> the Lord <hi>Dover</hi> 25th of <hi>September,</hi> in the se<g ref="char:EOLhyphen"/>cond year of the late King <hi>James,</hi> obtained a Patent in the Name of Sir <hi>John Coell,</hi> That the said Markets might be held at <hi>Great Brookfield</hi> on <hi>Mondays</hi> and <hi>Wednesdays:</hi> And by a subsequent Patent in 1688. the said Market-days were changed to <hi>Tuesday</hi> and <hi>Thursday.</hi>
+            </p>
+            <p>The City's Charter and Liberties being restored under the present Government, they petitioned His Majesty for Relief against the said Grants, who was pleased to refer the Examination to the Attorney-General; and upon his Report His Majesty in Council was pleased to order a <hi>Scire Facias</hi> to be brought in his Name, in order to try the Validity of the said Grants.</p>
+            <p>In 1695. the City brought a <hi>Scire Facias;</hi> but Dr. <hi>Barbon</hi> being interested in the said Grants, and then a Member of Parliament, insisted on his Priviledge, and so obstructed the City's Proceedings therein during his Life.</p>
+            <p>Since his Death the City have brought another <hi>Scire Facias</hi> against the Heir of Sir <hi>John Coell,</hi> and the Cause now de<g ref="char:EOLhyphen"/>pends in <hi>Chancery</hi> undetermined.</p>
+            <p>The Granting a New Market for Live Cattel within that Distance, is plainly against the above-mentioned Charters granted to the City in Parliament; which Priviledge as to any Market for Live Cattel they have hitherto enjoyed.</p>
+            <p>It will prejudice and bring to Decay the City's Ancient Market at <hi>Smithfield,</hi> which is made very commodious for Sale of Cattel, and under good Regulation by <hi>Stat.</hi> 22, &amp; 23 <hi>Car.</hi> 2. <hi>c.</hi> 19. made to prevent Frauds in Buying and Sel<g ref="char:EOLhyphen"/>ling of Cattel in <hi>Smithfield,</hi> which rectifies several Abuses which will not extend to prevent them in this new intended one.</p>
+            <p>It will bring to Decay the Revenues of St. <hi>Bartholomew</hi>'s Hospital (which is of Publick Use, especially in time of War, for curing of maimed Seamen, there having been above 3000 taken in and cured the last War) which arise from Rents at <hi>Smithfield,</hi> which will be much lessened, if this Market be permitted.</p>
+            <p>
+               <hi>Smithfield</hi> is capable of containing more Cattel than are brought there to Market, which is the Reason that <hi>Wednes<g ref="char:EOLhyphen"/>day</hi> is not kept as a Market-day, altho' the same is within the Grant.</p>
+            <p>Goods are cheaper at one General Market than in several, and prevents Regrating, and other Abuses committed when Markets are near, and Persons buy at one Market to sell at another, to inhance the Price.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Great Numbers of Cattel are sold at the Ends of the Town, which might be, if brought to Market, sufficient to sup<g ref="char:EOLhyphen"/>ply both Markets.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Resp. </seg>
+               </label>
+               <hi>Smithfield</hi> is capable of receiving all such Cattel, and a great many more; and the buying at the Ends of the Town is a great Loss to the City, and against the Statute made against Forestalling, and an Offence for which the City have ordered Prosecutions from time to time.</p>
+            <p>Supposing this Market were convenient for a few Butchers at <hi>Westminster</hi> (the only Persons concerned in a Market for Live Cattel) yet it is hoped such Conveniency will not be esteemed a Reason to dispossess the City of a more an<g ref="char:EOLhyphen"/>cient Right. The same Argument would be much stronger to erect the like Markets at <hi>Southwark, Wapping,</hi> and all other Parts of the Town: And nothing but an Absolute Necessity (which is not pretended in this Case) will be sufficient to sup<g ref="char:EOLhyphen"/>port such a Law.</p>
+            <p>It has not been usual to pass any Bill (tho' for a Publick Good) that is prejudicial to the Right of any Person, with<g ref="char:EOLhyphen"/>out making Satisfaction to the Party agrieved; as in making Rivers navagable, enlarging High-ways, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> It is objected, That notwithstanding the City's Grants, there are many Markets in the Suburbs.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Resp. </seg>
+               </label> They are such as are for things perishable, and of immediate Use, as Flesh and other like things; which Markets the City do not think reasonable to oppose, altho' they might insist, that the same are within their Grant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> The Honourable House of Commons in 1698. upon hearing the City at the Bar, and long Debate, were pleased to reject the Bill for erecting a Corn-Market at <hi>Westminster,</hi> in Prejudice to the City's Corn-Market at <hi>Queenhithe,</hi> which is a parallel Case with this.</p>
+            <p>
+               <hi>'Tis humbly hoped this Honourable House will not confirm a Grant so prejudicial to the City of</hi> London, <hi>and contrary to their more Ancient Grants; but that the Patentees or Persons interested in the said Grants, way be left to try the Validity of the same in a due Course of Law.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189448:2"/>
+            <p>THE CASE OF The City of <hi>London</hi> AGAINST The Bill for Confirming the Grants of a Market for Live Cattel at <hi>Brookfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
